@@ -129,6 +129,20 @@ Open the address shown in the terminal, usually `http://localhost:5173`.
 
 The real `.env` files are never uploaded to GitHub. The `.env.example` file shows which keys are needed.
 
+## 🚀 Deployment & Live Links
+
+- **Frontend Application (Vercel):** [https://restaurant-order-system-4l7xltsgo-anushkas-projects-40c7077a.vercel.app/](https://restaurant-order-system-4l7xltsgo-anushkas-projects-40c7077a.vercel.app/)
+- **Backend API Health Check (Render):** [https://restaurant-order-system-4r1x.onrender.com/api/health](https://restaurant-order-system-4r1x.onrender.com/api/health)
+
+---
+
+## 🔑 Test Credentials for Evaluation
+
+| Role | Email | Password |
+| :--- | :--- | :--- |
+| **Admin / Staff** | `admin@restaurant.com` | `admin123` |
+| **Customer** | `customer@test.com` | `customer123` |
+
 ## Test Logins
 
 The seed script creates these accounts:
