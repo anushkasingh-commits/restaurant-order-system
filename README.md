@@ -172,7 +172,11 @@ Authorization: Bearer <token>
 
 ## Screenshots
 
-[Add at least two screenshots here, for example the customer menu and the admin dashboard.]
+### Home page
+![Home Page](./assets/home.png)
+
+### Customer Dashboard
+![Customer Dashboard](./assets/customer.png)
 
 ## Learning Outcomes
 
