@@ -187,10 +187,10 @@ Authorization: Bearer <token>
 ## Screenshots
 
 ### Home page
-![Home Page](./frontend/src/assets/home.png)
+![Home Page](./frontend/assets/home.png)
 
 ### Customer Dashboard
-![Customer Dashboard](./frontend/src/assets/customer.png)
+![Customer Dashboard](./frontend/assets/customer.png)
 
 ## Learning Outcomes
 
